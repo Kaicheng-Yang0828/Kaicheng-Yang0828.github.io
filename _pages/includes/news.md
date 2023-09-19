@@ -1,5 +1,5 @@
 # 🔥 News
-- *2023.09*: I will attend ICCV2023, Happy to see you in ICCV (Paris) in person.
+- *2023.09*: I will attend ICCV2023, happy to see you in ICCV (Paris) in person.
 - *2023.09*: 🎉 Our team achieve 2th place in OpenFAD Challenge(ICCV2023 workshop).
 - *2023.07*: 🎉 ALIP has been accepted by ICCV2023.
 - *2023.01*: 🎉 Unicom has been accepted by ICLR2023.
