@@ -1,6 +1,6 @@
 # 🔥 News
 - *2023.09*: I will attend ICCV2023, happy to see you in ICCV (Paris) in person.
-- *2023.09*: 🎉 Our team achieve 2nd place in [OpenFAD Challenge(ICCV2023 workshop)](https://openfad.nist.gov).
+- *2023.09*: 🎉 Our team achieve co-winner in [OpenFAD Challenge(ICCV2023 workshop)](https://openfad.nist.gov).
 - *2023.07*: 🎉 ALIP has been accepted by ICCV2023.
 - *2023.05*: I will attend ICLR2023, happy to see you in ICLR (Kigali) in person.
 - *2023.01*: 🎉 Unicom has been accepted by ICLR2023.
