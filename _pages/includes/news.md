@@ -1,9 +1,11 @@
 # 🔥 News
+- *2024.04*: Our team achieve 1st Place on the [1st SkatingVerse Challenge(18th IEEE International Conference on Automatic Face and Gesture Recognition workshop)](https://skatingverse.github.io/).
+- *2024.03*: [LaPA](https://arxiv.org/pdf/2404.13039.pdf) has been accepted by CVPRW2024.
 - *2023.09*: I will attend ICCV2023, happy to see you in ICCV (Paris) in person.
 - *2023.09*: 🎉 Our team achieve co-winner in [OpenFAD Challenge(ICCV2023 workshop)](https://openfad.nist.gov).
-- *2023.07*: 🎉 ALIP has been accepted by ICCV2023.
+- *2023.07*: 🎉 [ALIP](https://arxiv.org/abs/2308.08428) has been accepted by ICCV2023.
 - *2023.05*: I will attend ICLR2023, happy to see you in ICLR (Kigali) in person.
-- *2023.01*: 🎉 Unicom has been accepted by ICLR2023.
+- *2023.01*: 🎉 [Unicom](https://arxiv.org/pdf/2304.05884.pdf) has been accepted by ICLR2023.
 - *2022.10*: We achieve 11/1022(top 1%) in the [Google Universal Image Embedding Challenge(ECCV2022 Instance-Level Recognition workshop)](https://www.kaggle.com/competitions/google-universal-image-embedding/overview/eccv-2022).
 - *2022.07*: I joined DeepGlint as an algorithm researcher.
 - *2021.01*: I joined MovieBook as an algorithm researcher.
