@@ -9,5 +9,5 @@
 - *2022.10*: We achieve 11/1022(top 1%) in the [Google Universal Image Embedding Challenge(ECCV2022 Instance-Level Recognition workshop)](https://www.kaggle.com/competitions/google-universal-image-embedding/overview/eccv-2022).
 - *2022.07*: I joined DeepGlint as an algorithm researcher.
 - *2021.01*: I joined MovieBook as an algorithm researcher.
-- *2020.10*: 🎉 CM-BERT has been accepted by ACM MM2020(Oral).
+- *2020.10*: 🎉 CM-BERT has been accepted by ACM MM2020(**<u>Oral</u>**).
 - *2022.07*: 🎉 CH-SIMS has been accepted by ACL2020.
