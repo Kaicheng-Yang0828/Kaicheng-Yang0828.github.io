@@ -1,7 +1,7 @@
 # 🔥 News
+- *2024.09*: 🎉 [RWKV-CLIP](https://arxiv.org/abs/2406.06973) has been accepted by EMNLP2024(Main).
 - *2024.07*: 🎉 [MLCD](https://arxiv.org/pdf/2407.17331) has been accepted by ECCV2024.
 - *2024.06*: We present the [High-Fidelity Facial Albedo](https://arxiv.org/pdf/2406.13149).
-- *2024.06*: We present the [RWKV-CLIP](https://arxiv.org/abs/2406.06973).
 - *2024.04*: Our team achieve 1st Place on the [1st SkatingVerse Challenge(18th IEEE International Conference on Automatic Face and Gesture Recognition workshop)](https://skatingverse.github.io/).
 - *2024.03*: [LaPA](https://arxiv.org/pdf/2404.13039.pdf) has been accepted by CVPRW2024.
 - *2023.09*: I will attend ICCV2023, happy to see you in ICCV (Paris) in person.
