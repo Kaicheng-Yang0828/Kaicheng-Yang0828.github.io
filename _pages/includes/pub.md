@@ -1,5 +1,10 @@
 
 # 💻 Public Papers
+- ``WACV 2025`` [ORID: Organ-Regional Information Driven Framework for Radiology Report Generation](https://arxiv.org/pdf/2411.13025). Tiancheng Gu*, **Kaicheng Yang***, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai
+<p align="center">
+  <img src="_pages/includes/image_paper/ORID.jpg" width="500px" height="300px">
+</p>
+
 - ``EMNLP 2024`` [RWKV-CLIP: A Robust Vision-Language Representation Learner](https://arxiv.org/abs/2406.06973). Tiancheng Gu*, **Kaicheng Yang***, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai, Jiankang Deng
 <p align="center">
   <img src="_pages/includes/image_paper/RWKV-CLIP.jpg" width="500px" height="300px">
@@ -9,7 +14,7 @@
 <p align="center">
   <img src="_pages/includes/image_paper/MLCD.jpg" width="600px" height="300px">
 </p>
-  
+
 
 - ``CVPRW 2024`` [LaPA: Latent Prompt Assist Model For Medical Visual Question Answering](https://arxiv.org/pdf/2404.13039.pdf). Tiancheng Gu, **Kaicheng Yang**, Dongnan Liu, Weidong Cai
 <p align="center">
