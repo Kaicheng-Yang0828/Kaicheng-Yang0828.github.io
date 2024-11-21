@@ -1,5 +1,11 @@
 
 # 💻 Public Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV2025 2024</div><img src='_pages/includes/image_paper/ORID.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ORID: Organ-Regional Information Driven Framework for Radiology Report Generation](https://arxiv.org/pdf/2411.13025). Tiancheng Gu*, **Kaicheng Yang***, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai
+</div>
+</div>
 
 - ``WACV 2025`` [ORID: Organ-Regional Information Driven Framework for Radiology Report Generation](https://arxiv.org/pdf/2411.13025). Tiancheng Gu*, **Kaicheng Yang***, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai
 <p align="center">
