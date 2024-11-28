@@ -4,7 +4,7 @@
 <div class='paper-box-text' markdown="1">
 
 [ORID: Organ-Regional Information Driven Framework for Radiology Report Generation](https://arxiv.org/pdf/2411.13025) \\
-Tiancheng Gu\*, **Kaicheng Yang\***, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai
+Tiancheng Gu\*, **Kaicheng Yang\***, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai (**Equal First author**)
 
 [**Arxiv**](https://arxiv.org/pdf/2411.13025)
 </div>
@@ -14,7 +14,7 @@ Tiancheng Gu\*, **Kaicheng Yang\***, Xiang An, Ziyong Feng, Dongnan Liu, Weidong
 <div class='paper-box-text' markdown="1">
 
 [RWKV-CLIP: A Robust Vision-Language Representation Learner](https://arxiv.org/abs/2406.06973) \\
-Tiancheng Gu\*, **Kaicheng Yang\***, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai, Jiankang Deng
+Tiancheng Gu\*, **Kaicheng Yang\***, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai, Jiankang Deng (**Equal First author**)
 
 [**Arxiv**](https://arxiv.org/abs/2406.06973), [**Code**](https://github.com/deepglint/RWKV-CLIP)
 </div>
@@ -64,7 +64,7 @@ Xiang An, Jiankang Deng, **Kaicheng Yang**, Jiawei Li, Ziyong Feng, Jia Guo, Jin
 <div class='paper-box-text' markdown="1">
 
 [CM-BERT: Cross-Modal BERT for Text-Audio Sentiment Analysis](https://dl.acm.org/doi/10.1145/3394171.3413690) \\
-**Kaicheng Yang**, Hua Xu, KaiGao
+**Kaicheng Yang**, Hua Xu, KaiGao (**Oral**)
 
 [**Code**](https://github.com/thuiar/Cross-Modal-BERT)
 </div>
