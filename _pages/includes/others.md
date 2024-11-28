@@ -1,5 +1,5 @@
 # 🧑‍🏫Professional Services
-- Conferences: ECCV, CVPR, ICCV, ACL, EMNLP, ACM MM
+- Conferences: ECCV, CVPR, ICCV, ACL, EMNLP, NAACL, ACM MM
 - Journals: ESWA
 
 # 📖 Educations
