@@ -2,4 +2,4 @@ In 2021, I earned my master's degree from Hebei University of Science and Techno
 
 Email:kaichengyang0828@gmail.com; kaichengyang@deepglint.com.
 
-Google Scholar: [Scholar](https://scholar.google.com/citations?user=AQMkoXIAAAAJ) & [Citation Map]('_pages/includes/citation_map.html).
+Google Scholar: [Scholar](https://scholar.google.com/citations?user=AQMkoXIAAAAJ) & [Citation Map]('_pages/includes/citation_map.html').
