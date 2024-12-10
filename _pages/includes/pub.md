@@ -1,6 +1,6 @@
 
 # 💻 Public Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='_pages/includes/image_paper/CLIP-CID.jpg' alt="sym" width="300px" height="300px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='_pages/includes/image_paper/CLIP-CID.jpg' alt="sym" width="400px" height="300px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [CLIP-CID: Efficient CLIP Distillation via Cluster-Instance Discrimination](https://arxiv.org/pdf/2408.09441) \\
