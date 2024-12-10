@@ -1,7 +1,18 @@
 
 # 💻 Public Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='_pages/includes/image_paper/CLIP-CID.jpg' alt="sym" width="400px" height="400px"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[CLIP-CID: Efficient CLIP Distillation via Cluster-Instance Discrimination](https://arxiv.org/pdf/2408.09441) \\
+**Kaicheng Yang\***, Tiancheng Gu\*, Xiang An, Haiqiang Jiang, Xiangzi Dai, Ziyong Feng, Weidong Cai, Jiankang Deng (**First author**)
+
+[**Arxiv**](https://arxiv.org/pdf/2408.09441)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV2025</div><img src='_pages/includes/image_paper/ORID.jpg' alt="sym" width="400px" height="300px"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [ORID: Organ-Regional Information Driven Framework for Radiology Report Generation](https://arxiv.org/pdf/2411.13025) \\
 Tiancheng Gu\*, **Kaicheng Yang\***, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai (**Equal First author**)
