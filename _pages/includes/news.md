@@ -1,6 +1,6 @@
 # 🔥 News
 - *2024.12*: 🎉 [CLIP-CID](https://arxiv.org/pdf/2408.09441) has been accepted by AAAI2025.
-- *2024.11*: 🎉 [ORID](https://arxiv.org/pdf/2411.13025) has been accepted by WACV2025.
+- *2024.11*: 🎉 [ORID](https://arxiv.org/pdf/2411.13025) has been accepted by WACV2025(**Oral**).
 - *2024.10*: We present the [Croc](https://arxiv.org/abs/2410.14332).
 - *2024.09*: 🎉 [RWKV-CLIP](https://arxiv.org/abs/2406.06973) has been accepted by EMNLP2024(Main).
 - *2024.07*: 🎉 [MLCD](https://arxiv.org/pdf/2407.17331) has been accepted by ECCV2024.
