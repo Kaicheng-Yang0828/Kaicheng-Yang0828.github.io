@@ -6,7 +6,7 @@
 [CLIP-CID: Efficient CLIP Distillation via Cluster-Instance Discrimination](https://arxiv.org/pdf/2408.09441) \\
 **Kaicheng Yang\***, Tiancheng Gu\*, Xiang An, Haiqiang Jiang, Xiangzi Dai, Ziyong Feng, Weidong Cai, Jiankang Deng (**First author**)
 
-[**Arxiv**](https://arxiv.org/pdf/2408.09441)
+[**Arxiv**](https://arxiv.org/pdf/2408.09441), [**公众号**](https://mp.weixin.qq.com/s/vb1-nm-PXSJD5Qt-qIifyg)
 </div>
 </div>
 
@@ -27,7 +27,7 @@ Tiancheng Gu\*, **Kaicheng Yang\***, Xiang An, Ziyong Feng, Dongnan Liu, Weidong
 [RWKV-CLIP: A Robust Vision-Language Representation Learner](https://arxiv.org/abs/2406.06973) \\
 Tiancheng Gu\*, **Kaicheng Yang\***, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai, Jiankang Deng (**Equal First author**)
 
-[**Arxiv**](https://arxiv.org/abs/2406.06973), [**Code**](https://github.com/deepglint/RWKV-CLIP)
+[**Arxiv**](https://arxiv.org/abs/2406.06973), [**Code**](https://github.com/deepglint/RWKV-CLIP), [**公众号**](https://mp.weixin.qq.com/s/0sDHeN3QwF6AdFx3QyOvRw)
 </div>
 </div>
 
@@ -37,7 +37,7 @@ Tiancheng Gu\*, **Kaicheng Yang\***, Xiang An, Ziyong Feng, Dongnan Liu, Weidong
 [Multi-label Cluster Discrimination for Visual Representation Learning](https://arxiv.org/pdf/2407.17331) \\
 Xiang An, **Kaicheng Yang**, Xiangzi Dai, Ziyong Feng, Jiankang Deng
 
-[**Arxiv**](https://arxiv.org/abs/2407.17331), [**Code**](https://github.com/deepglint/unicom)
+[**Arxiv**](https://arxiv.org/abs/2407.17331), [**Code**](https://github.com/deepglint/unicom), [**公众号**](https://mp.weixin.qq.com/s/K2GbXh6GlV06-6Q4DYbPFg)
 </div>
 </div>
 
@@ -57,7 +57,7 @@ Tiancheng Gu, **Kaicheng Yang**, Dongnan Liu, Weidong Cai
 [ALIP: Adaptive Language-Image Pre-training with Synthetic Caption](https://arxiv.org/abs/2308.08428) \\
 **Kaicheng Yang**, Jiankang Deng, Xiang An, Jiawei Li, Ziyong Feng, Jia Guo, Jing Yang, Tongliang Liu
 
-[**Arxiv**](https://arxiv.org/abs/2308.08428), [**Code**](https://github.com/deepglint/ALIP)
+[**Arxiv**](https://arxiv.org/abs/2308.08428), [**Code**](https://github.com/deepglint/ALIP), [**公众号**](https://mp.weixin.qq.com/s/lq_coUgV5A_h9RGvYhKaEA)
 </div>
 </div>
 
@@ -67,7 +67,7 @@ Tiancheng Gu, **Kaicheng Yang**, Dongnan Liu, Weidong Cai
 [Unicom: Universal and Compact Representation Learning for Image Retrieval](https://arxiv.org/abs/2304.05884) \\
 Xiang An, Jiankang Deng, **Kaicheng Yang**, Jiawei Li, Ziyong Feng, Jia Guo, Jing Yang, Tongliang Liu
 
-[**Arxiv**](https://arxiv.org/abs/2304.05884), [**Code**](https://github.com/deepglint/unicom)
+[**Arxiv**](https://arxiv.org/abs/2304.05884), [**Code**](https://github.com/deepglint/unicom), [**公众号**](https://mp.weixin.qq.com/s/GmrbHexhaJ-3q4-2SW5Wig)
 </div>
 </div>
 
