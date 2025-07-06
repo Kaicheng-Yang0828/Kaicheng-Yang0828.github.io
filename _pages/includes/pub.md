@@ -1,5 +1,44 @@
 
 # 💻 Public Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2025</div><img src='_pages/includes/image_paper/DeGLA.jpg' alt="sym" width="400px" height="300px"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Decoupled Global-Local Alignment for Improving Compositional Understanding](https://arxiv.org/pdf/2504.16801) \\
+Xiaoxing Hu\*, **Kaicheng Yang\***, Jun Wang, Haoran Xu, Ziyong Feng, Yupei Wang (**Equal First author**)
+
+[**Arxiv**](https://arxiv.org/pdf/2504.16801), [**公众号**](https://mp.weixin.qq.com/s/VC3K96_tKrVbdBux0zsD2Q), [**GitHub**](https://github.com/xiaoxing2001/DeGLA), [**Project Websit**](https://xiaoxing2001.github.io/DeGLA.github.io/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2025</div><img src='_pages/includes/image_paper/UniME.jpg' alt="sym" width="400px" height="300px"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Breaking the Modality Barrier: Universal Embedding Learning with Multimodal LLMs](https://arxiv.org/abs/2504.17432) \\
+Tiancheng Gu\*, **Kaicheng Yang\***, Ziyong Feng, Xingjun Wang, Yanzhao Zhang, Dingkun Long, Yingda Chen, Weidong Cai, Jiankang Deng (**Equal First author**)
+
+[**Arxiv**](https://arxiv.org/abs/2504.17432), [**公众号**](https://mp.weixin.qq.com/s/d4huTt19EWBkvtzAHDI1uQ), [**GitHub**](https://github.com/deepglint/UniME), [**Project Websit**](https://garygutc.github.io/UniME/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2025</div><img src='_pages/includes/image_paper/RealSyn.jpg' alt="sym" width="400px" height="300px"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[RealSyn: An Effective and Scalable Multimodal Interleaved Document Transformation Paradigm](https://arxiv.org/pdf/2502.12513) \\
+Tiancheng Gu\*, **Kaicheng Yang\***, Chaoyi Zhang, Yin Xie, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai, Jiankang Deng (**Equal First author**)
+
+[**Arxiv**](https://arxiv.org/pdf/2502.12513), [**公众号**](https://mp.weixin.qq.com/s/CnuVZMSkYHpFwnfaLZ-3qA), [**GitHub**](https://github.com/deepglint/RealSyn), [**Project Websit**](https://garygutc.github.io/RealSyn/)
+</div>
+</div>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS2025</div><img src='_pages/includes/image_paper/DLOV-3D.jpg' alt="sym" width="400px" height="300px"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Dual-Level Open-Vocabulary 3D Scene Representation for Instance-Aware Robot Navigation \\
+Tianlu Zheng, **Kaicheng Yang\***, Yilong Dou, Ziyong Feng, Qichuan Ding
+
+</div>
+</div> -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='_pages/includes/image_paper/CLIP-CID.jpg' alt="sym" width="400px" height="300px"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -38,16 +77,6 @@ Tiancheng Gu\*, **Kaicheng Yang\***, Xiang An, Ziyong Feng, Dongnan Liu, Weidong
 Xiang An, **Kaicheng Yang**, Xiangzi Dai, Ziyong Feng, Jiankang Deng
 
 [**Arxiv**](https://arxiv.org/abs/2407.17331), [**Code**](https://github.com/deepglint/unicom), [**公众号**](https://mp.weixin.qq.com/s/K2GbXh6GlV06-6Q4DYbPFg)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW2024</div><img src='_pages/includes/image_paper/LaPA.jpg' alt="sym" width="400px" height="300px"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LaPA: Latent Prompt Assist Model For Medical Visual Question Answering](https://arxiv.org/pdf/2404.13039) \\
-Tiancheng Gu, **Kaicheng Yang**, Dongnan Liu, Weidong Cai
-
-[**Arxiv**](https://arxiv.org/abs/2404.13039), [**Code**](https://github.com/GaryGuTC/LaPA_model)
 </div>
 </div>
 
