@@ -1,6 +1,7 @@
 # 🔥 News
-- *2025.07*: 🎉 Three paper(RealSyn, UniME, DeGLA) have been accepted by ACM MM2025.
-- *2025.06*: 🎉 Three paper(RICE, ForCenNet, HUST) have been accepted by ICCV2025.
+- *2025.09*: 🎉 [GA-DMS](https://arxiv.org/pdf/2509.09118) has been accepted by EMNLP2025(Main)
+- *2025.07*: 🎉 Three papers (RealSyn, UniME, DeGLA) have been accepted by ACM MM2025.
+- *2025.06*: 🎉 Three papers ([RICE](https://arxiv.org/pdf/2507.20025), [ForCenNet](https://arxiv.org/pdf/2507.19804), [HUST](https://arxiv.org/pdf/2406.13149)) have been accepted by ICCV2025.
 - *2025.06*: 🎉 DLOV-3D has been accepted by IROS2025.
 - *2025.04*: We present the [DeGLA](https://arxiv.org/abs/2504.16801) and [UniME](https://arxiv.org/pdf/2504.17432)
 - *2025.02*: We present the [RealSyn](https://arxiv.org/abs/2502.12513) Dataset.
