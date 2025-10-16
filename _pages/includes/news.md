@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.10*: I will attend ACM MM25, happy to see you in ACM MM (Ireland) in person.
 - *2025.10*: We present the [UniME-V2](https://arxiv.org/pdf/2510.13515).
 - *2025.09*: We present the [LLaVA-OneVision-1.5](https://arxiv.org/abs/2509.23661).
 - *2025.09*: 🎉 UniViT have been accepted by NeurIPS2025.
