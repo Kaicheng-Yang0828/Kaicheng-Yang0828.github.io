@@ -1,5 +1,8 @@
 # 🔥 News
-- *2025.09*: 🎉 [GA-DMS](https://arxiv.org/pdf/2509.09118) has been accepted by EMNLP2025(Main)
+- *2025.10*: We present the [UniME-V2](https://arxiv.org/pdf/2510.13515).
+- *2025.09*: We present the [LLaVA-OneVision-1.5](https://arxiv.org/abs/2509.23661).
+- *2025.09*: 🎉 UniViT have been accepted by NeurIPS2025.
+- *2025.08*: 🎉 [GA-DMS](https://arxiv.org/pdf/2509.09118) has been accepted by EMNLP2025 Main.
 - *2025.07*: 🎉 Three papers (RealSyn, UniME, DeGLA) have been accepted by ACM MM2025.
 - *2025.06*: 🎉 Three papers ([RICE](https://arxiv.org/pdf/2507.20025), [ForCenNet](https://arxiv.org/pdf/2507.19804), [HUST](https://arxiv.org/pdf/2406.13149)) have been accepted by ICCV2025.
 - *2025.06*: 🎉 DLOV-3D has been accepted by IROS2025.
